@@ -1,6 +1,5 @@
-print("hello")
-
 #list
+
 list1 = [1,2,"python","programming",3.14]
 print(list1)
 
